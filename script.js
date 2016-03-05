@@ -1,5 +1,7 @@
 $(function(){
 
-	// ここにjQueryを書いていく
+	// ここにjQueryを書くよ
+
 	
+
 });
